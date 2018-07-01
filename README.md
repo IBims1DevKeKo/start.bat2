@@ -1,2 +1,2 @@
 # start.bat2
-Das ist eine Start datei von einem MC-Java server!
+Alles darf nicht als seines vergeben werden!
